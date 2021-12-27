@@ -1,0 +1,16 @@
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\bin\Debug\net5.0\FilasEmCsharp.exe
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\bin\Debug\net5.0\FilasEmCsharp.deps.json
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\bin\Debug\net5.0\FilasEmCsharp.runtimeconfig.json
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\bin\Debug\net5.0\FilasEmCsharp.runtimeconfig.dev.json
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\bin\Debug\net5.0\FilasEmCsharp.dll
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\bin\Debug\net5.0\ref\FilasEmCsharp.dll
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\bin\Debug\net5.0\FilasEmCsharp.pdb
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\FilasEmCsharp.csproj.AssemblyReference.cache
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\FilasEmCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\FilasEmCsharp.AssemblyInfoInputs.cache
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\FilasEmCsharp.AssemblyInfo.cs
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\FilasEmCsharp.csproj.CoreCompileInputs.cache
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\FilasEmCsharp.dll
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\ref\FilasEmCsharp.dll
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\FilasEmCsharp.pdb
+C:\projetos\QueueInCsharp\FilasEmCsharp\FilasEmCsharp\obj\Debug\net5.0\FilasEmCsharp.genruntimeconfig.cache
